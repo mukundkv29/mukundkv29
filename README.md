@@ -9,7 +9,7 @@
 </tr>
 
 <tr>
- <td width="70%">
+ <td width="30%">
    <ul>
      <li>Student at IIT (ISM) Dhanbad </li>
      <li>Feel free to reach me at: <a href="mailto:21mukund.29@gmail.com">Gmail</a> 📫</li>
