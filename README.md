@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Mukund Kumar Verma  👋
+<!--
+## Skills
 
+- **Programming Languages**: C++, C, JavaScript, Python
+- **Frameworks and Libraries**: React, Node.js, 
+- **Tools and Platforms**: Git, Linux
+
+-->
 <!--
 **mukundkv29/mukundkv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
