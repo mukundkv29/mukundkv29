@@ -11,7 +11,8 @@
 <tr>
  <td width="30%">
    <ul>
-     <li>Student at IIT (ISM) Dhanbad </li>
+    <li>CSE' 24</li>
+     <li>IIT (ISM) Dhanbad </li>
      <li>Feel free to reach me at: <a href="mailto:21mukund.29@gmail.com">Gmail</a> 📫</li>
    </ul> 
  </td>
